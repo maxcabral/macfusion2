@@ -5,4 +5,4 @@ To use this package you will need the following:
 
 Both can be found at: http://osxfuse.github.io
 
-I personally install the MacFuse compatibility layer but I don't believe it is required
+You will neeed to install the MacFuse compatibility layer.
