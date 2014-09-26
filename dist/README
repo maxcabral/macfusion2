@@ -1,0 +1,8 @@
+To use this package you will need the following:
+
+- OS X Fuse
+- SSH FS for OS X
+
+Both can be found at: http://osxfuse.github.io
+
+I personally install the MacFuse compatibility layer but I don't believe it is required
